@@ -1,0 +1,2 @@
+create client folder and put public, src, package.json, package-lock.json inside it and
+install node_modules inside it
